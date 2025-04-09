@@ -1,4 +1,4 @@
-# 🔍 Busca Interpolada (Interpolation Search)
+# 🔍 Busca Interpolada (*Interpolation Search*)
 
 A **busca interpolada** (ou *interpolation search*) é um algoritmo de busca otimizado para **listas ordenadas de forma uniforme** (ou aproximadamente uniforme). Ela é uma versão aprimorada da busca binária, que tenta adivinhar a posição do elemento procurado com base em uma **interpolação linear**, em vez de simplesmente olhar o meio da lista.
 
